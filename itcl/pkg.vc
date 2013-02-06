@@ -1,0 +1,19 @@
+######################################################################
+#
+#  Global package version numbers for the build.
+#
+######################################################################
+#  $Id: pkg.vc 144 2003-02-05 10:56:26Z mdejong $
+######################################################################
+
+# remember to change itcl/generic/itcl.h, too.
+# don't add patchlevel!
+
+!ifndef ITCL_DOTVERSION	
+ITCL_DOTVERSION	= 3.2
+!endif
+
+ITCL_VERSION	= $(ITCL_DOTVERSION:.=)
+ITK_DOTVERSION	= $(ITCL_DOTVERSION)
+ITK_VERSION	= $(ITCL_VERSION)
+
