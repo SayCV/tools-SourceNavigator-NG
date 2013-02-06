@@ -1,0 +1,4 @@
+tools-SourceNavigator-NG
+========================
+
+Source Navigator NG is based upon RedHat's Source Navigator. Source Navigator is a source code analysis tool. With it, you can edit your source code, display relationships between classes and functions and members, and display call trees.    Development Status: 5 - Production/Stable Environment: Win32 (MS Windows), X11 Applications Intended Audience: Developers License: GNU General Public License (GPL) Natural Language: English Operating System: Windows, Linux Programming Language: C, Tcl Topic: Software Development, Integrated Development Environments (IDE)
