@@ -1,0 +1,12 @@
+In this directory:
+
+- create_innosetup.tcl
+Used to create an InnoSetup .iss file
+Copyright by Andres Garcia 2012, and contributed to Source Navigator NG
+
+- sys/
+Header files for the win32 build.
+They should go into /usr/include/sys in the MinGW directory.
+
+- testcases/
+Special testcases, e.g. to invoke parser errors

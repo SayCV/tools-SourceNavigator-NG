@@ -1,0 +1,8 @@
+general performance enhancements
+o check NATIVE Berkeley DB4 API porting
+o win32 GUI feedback is slow (refresh, reparse, ...)
+
+usability improvements
+
+tcl/tk 8.3 -> 8.4
+o check included tix and libgui
